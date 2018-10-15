@@ -1,0 +1,6 @@
+#url
+automation_url: "http://automationpractice.com/index.php"
+
+#file path
+data: "/data.txt"
+users: "/users.txt"
