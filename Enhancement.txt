@@ -1,0 +1,5 @@
+Enhancement:
+-For Q1: currently the minimal data is entered during signup/ so it can be enhanced by following a format on the data file and checking if it is blank or not and then fill up the corresponding fields in the form
+-if the test plan is in test rail, test rail api can be used to update the test cases
+-Report generation can be enhanced 
+-For Q3: I have tried attempting it in java and i understand the question says “the expected outcome is ‘account does not exist’ message should appear, I was not able to get this message and hence I have not done any validation on it.
